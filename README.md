@@ -24,10 +24,10 @@ The dataset used for this analysis includes demographic data of customers, infor
 - Discount Applied: shwos if a discount has been applied
 
 ## Analysis Methodology
-in progress
+The analysis includes several visualisations including geographical heatmaps of relevent parameters.
 
 ## Key Findings
-to be added
+The dataset contains more entries of male customers then female customers. The purchased items are mostly clothes and accessories and the average item costs around 60 USD. Customers tend to spend slightly more money when free shipping is available. Most purchases have been made in the regions around New York and Washington.
 
 ## Conclusion
-to be added
+The dataset has a rather low impact for analysis, there are little to none major trends to be found.
